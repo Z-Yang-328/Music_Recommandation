@@ -1,0 +1,5 @@
+nUsers=249012
+nItems=296111
+nRatings=62551438
+nTrainRatings=61944406
+nTestRatings=607032
