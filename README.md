@@ -11,8 +11,11 @@ Music Recommandation System based on Yahoo! music dataset.
 
 --Ensemble.py  ensemble all the results obtained from previous steps and make new predictions.
 
+--Report.pdf  introduction of methods applied in this project.
 
-Here is a instruction about how to use our programs.
+
+Here is a instruction about how to use the programs.
+All the methods are mentioned in the report.
 
 Methods 1--6
 
